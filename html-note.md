@@ -9,4 +9,7 @@ tags: html
 2.  [html介紹](https://developer.mozilla.org/zh-TW/docs/Learn/HTML/Introduction_to_HTML/Getting_started)  
     
 3.  [html使用說明](https://www.w3school.com.cn/html/html_jianjie.asp)
-
+4.  [markdown語法說明](https://markdown.tw/#overview)
+---
+補充
+* [關於F12](https://developers.google.com/web/tools/chrome-devtools/?hl=zh-tw&fbclid=IwAR01tuTctQcHiMBQKr2iQy9zymlFU3uVRlbauDjP4V2cwTFt5UhHCd5r-1c)
