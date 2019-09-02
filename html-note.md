@@ -3,19 +3,36 @@ title: '網頁程式學習筆記-HTML'
 tags: HTML
 ---
 # HTML 筆記
+>## HTML 簡介<br>
+>>超文本標記語言 (HyperText Markup Language) <br>
+>>與遊覽器溝通的標籤語言，告知他該怎麼講網頁作品呈現．
 
 >## section 是什麼，什麼時候使用
 >### 小筆記
->> section 是 **HTML  5** 新增的標籤，為了分隔不同文字區塊所誕生的標籤, 用途是在於展現擁有標題的區塊（繞口，看了更加糊塗了）<br>
+>> section 是 **HTML  5** 新增的標籤，為了分隔不同文字區塊所誕生的標籤, 用途是在於展現擁有標題的章節區塊（繞口，看了更加糊塗了）<br>
 >> 分擔 div 的使用，是 html 檔案擁有更加明確的語義與閱讀性<br>
 >> 以下內容應該就是 **section** 使用的時機了 <br>
 >> 標題 ：好好吃飯 <br>
->> 簡介 ：蔡瀾先生的好作品
->### 參考資料
+>> 簡介 ：蔡瀾先生的好作品<br>
+>>
+>>標籤           | 簡介 
+>>--------------|:-----
+>>h1~h6         | 標題
+>>section       | 章節
+>>article       | 文章
+>>p             | 段落
+>>header        | 頂部
+>>footer        | 底部
+>>main          | 大綱
+>>aside         | 旁支內容
+>>div           | 劃分
+>>### 參考資料
 >* [官方資料](https://html.spec.whatwg.org/multipage/sections.html#outline)
 >* [使用說明](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/section)
 >* [muki 解讀](https://muki.tw/tech/section-and-outline-html5/)
 
+>>contenteditable <br>
+>>**HTML** 的全域屬性，功能是為所元素添加自由輸入功能 
 
 ---
 參考資料
