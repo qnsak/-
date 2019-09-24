@@ -47,6 +47,8 @@ tags: HTML
 5.  [html 鏈接](https://www.evernote.com/shard/s590/sh/4da53bfa-9ae4-46bc-9596-2bdcfad5ec1e/24767db841dafa7d3cce11f1979c8701)
 
 6.  [關於鏈接種類說明 （allink 內部type有哪些）](https://www.iana.org/assignments/media-types/media-types.xhtml)
+
+7.  [網頁使用 Google drive 圖](https://support.awesome-table.com/hc/en-us/articles/115002196665-Display-images-from-Google-Drive)
 ---
 補充
 * [關於F12](https://developers.google.com/web/tools/chrome-devtools/?hl=zh-tw&fbclid=IwAR01tuTctQcHiMBQKr2iQy9zymlFU3uVRlbauDjP4V2cwTFt5UhHCd5r-1c)
